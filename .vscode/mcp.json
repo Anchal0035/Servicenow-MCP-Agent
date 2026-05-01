@@ -2,7 +2,7 @@
   "servers": {
     "ticket-agent": {
       "command": "node",
-      "args": ["agentTicket.js"]
+      "args": ["agent.js"]
     }
   }
 }
